@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head>
+  <title>Montana Historical Imagery</title>
+  <base href="https://wlfw-science.github.io/landscape-explorer/
+">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <script>
+    function loadMap() {
+      console.log("Maps API loaded");
+    }
+  </script>
+<style>@import"//fonts.googleapis.com/css?family=Lato";@import"//fonts.googleapis.com/css?family=IM+Fell+English";@import"//fonts.googleapis.com/icon?family=Material+Icons";html,body{height:100%}body{margin:0;font-family:Roboto,Helvetica Neue,sans-serif;height:100%;width:100%}</style><link rel="stylesheet" href="styles.aee03cba56c77a6a.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.aee03cba56c77a6a.css"></noscript></head>
+
+<body>
+  <app-root>Loading the Montana Historical Imagery Viewer...</app-root>
+<script src="runtime.2abfe2f9d87ee6a4.js" type="module"></script><script src="polyfills.811045fe454483d5.js" type="module"></script><script src="main.9ef076a2522a244a.js" type="module"></script>
+
+
+</body></html>
