@@ -5,16 +5,18 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="IE=edge">
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <link rel="shortcut icon" href="https://historical-imagery.bluevalleytech.com/wp-content/uploads/2023/05/logo_wlfw.png" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://historical-imagery.bluevalleytech.com/wp-content/uploads/2023/05/logo_wlfw.png">
   <script>
     function loadMap() {
       console.log("Maps API loaded");
     }
   </script>
-<style>@import"//fonts.googleapis.com/css?family=Lato";@import"//fonts.googleapis.com/css?family=IM+Fell+English";@import"//fonts.googleapis.com/icon?family=Material+Icons";html,body{height:100%}body{margin:0;font-family:Roboto,Helvetica Neue,sans-serif;height:100%;width:100%}</style><link rel="stylesheet" href="styles.aee03cba56c77a6a.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.aee03cba56c77a6a.css"></noscript></head>
+<style>@import"//fonts.googleapis.com/css?family=Lato";@import"//fonts.googleapis.com/css?family=IM+Fell+English";@import"//fonts.googleapis.com/icon?family=Material+Icons";html,body{height:100%}body{margin:0;font-family:Roboto,Helvetica Neue,sans-serif;height:100%;width:100%}</style><link rel="stylesheet" href="styles.5cf35f214be87c59.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.5cf35f214be87c59.css"></noscript></head>
 
 <body>
   <app-root>Loading the Landscape Explorer...</app-root>
-<script src="runtime.2abfe2f9d87ee6a4.js" type="module"></script><script src="polyfills.811045fe454483d5.js" type="module"></script><script src="main.768fc35bcaff54be.js" type="module"></script>
+<script src="runtime.2abfe2f9d87ee6a4.js" type="module"></script><script src="polyfills.811045fe454483d5.js" type="module"></script><script src="main.81e988714160b017.js" type="module"></script>
 
 
 </body></html>
