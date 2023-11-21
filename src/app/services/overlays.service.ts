@@ -50,7 +50,7 @@ export class Overlay  {
   public minZoom:number;
   public maxZoom = 20;
   public minNativeZoom:number;
-  public maxNativeZoom = 16;
+  public maxNativeZoom = 17;
   public data: google.maps.Data;
   public tile_params = [];
   public year = 2020;
