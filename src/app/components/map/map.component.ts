@@ -167,7 +167,7 @@ clickDeck(info:any, event:any) {
       tilt: 0,
       heading: 0,
       minZoom: 4,
-      maxZoom: 16,
+      maxZoom: 17,
       zoomControlOptions: {
         position: google.maps.ControlPosition.LEFT_TOP
       },
