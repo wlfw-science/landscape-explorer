@@ -17,7 +17,7 @@ export class AppComponent {
                 showControl: false,
                 help: 'Historic imagery',
                 mask: 'left',
-                maxNativeZoom: 16,
+                maxNativeZoom: 17,
                 type: {
                   format: 'XYZ',
                   name: 'Historical Imagery',
