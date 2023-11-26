@@ -112,7 +112,7 @@ clickDeck(info:any, event:any) {
                 data: overlay.type.tileurl,
                 id: overlay.id,
                 opacity: (overlay.opacity >= 0) ? overlay.opacity : 0.8,
-                maxZoom:overlay.maxNativeZoom,
+                maxZoom: overlay.maxNativeZoom,
                 tileSize: 256,
                 maskId: overlay.mask,
                 extensions: [new MaskExtension()],
@@ -167,7 +167,7 @@ clickDeck(info:any, event:any) {
       tilt: 0,
       heading: 0,
       minZoom: 4,
-      maxZoom: 17,
+      maxZoom: 18,
       zoomControlOptions: {
         position: google.maps.ControlPosition.LEFT_TOP
       },
